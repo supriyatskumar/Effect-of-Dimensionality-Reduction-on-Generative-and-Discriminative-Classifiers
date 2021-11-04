@@ -1,5 +1,10 @@
 # Effect-of-Dimensionality-Reduction-on-Generative-and-Discriminative-Classifiers
 
+### Objective:
+Understanding the effect of dimensionality reduction (Singular Value Decomposition) on performance of generative (Naive Bayes, KNN) and discriminative (multinomial logistic regression) classifiers
+
+### Dataset: 
+MNIST digits data (target-10 image classes). More details can be found in the original data set website- http://yann.lecun.com/exdb/mnist/
 
 ### Results comparison:
 Case 1:  Classifiers trained on Singular Value Decomposition(SVD) reduced test data<br />
